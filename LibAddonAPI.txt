@@ -1,0 +1,8 @@
+## APIVersion: 100014
+## Title: LibAddonAPI
+## Version: 1.0 r1
+## Author: @uladz
+## Description: A library to aid in inter-addon communication.
+
+LibStub\LibStub.lua
+LibAddonAPI\LibAddonAPI.lua
